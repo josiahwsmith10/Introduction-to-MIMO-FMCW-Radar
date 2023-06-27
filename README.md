@@ -4,7 +4,7 @@
  See docs folder for main instructional document
 
 
-If you appreciate our work, please cite one of the papers using this toolbox
+If you appreciate our work, please cite one of the papers using this work
 ```
 @article{smith2023dual_radar,
 	title        = {Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution},
