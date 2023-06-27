@@ -4,10 +4,17 @@
  See docs folder for main instructional document
 
 
-If you appreciate our work, please cite one of the papers using this work
+If you appreciate our work, please cite one of the papers using this work:
+- [Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution](https://arxiv.org/abs/2305.02017)
+- [Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging](https://arxiv.org/abs/2305.02092)
+- [A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution](https://arxiv.org/abs/2305.02074)
+- [Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries](https://arxiv.org/abs/2305.02064)
+- [An FCNN-Based Super-Resolution mmWave Radar Framework for Contactless Musical Instrument Interface](https://arxiv.org/abs/2305.01995)
+- [Improved Static Hand Gesture Classification on Deep Convolutional Neural Networks using Novel Sterile Training Technique](https://arxiv.org/abs/2305.02039)
+- [Near-Field MIMO-ISAR Millimeter-Wave Imaging](https://arxiv.org/abs/2305.02030)
 ```
 @article{smith2023dual_radar,
-	title        = {Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution},
+	title        = {Deep Learning-Based Multiband Signal Fusion for {3-D} {SAR} Super-Resolution},
 	author       = {Smith, J. W. and Torlak, M.},
 	year         = 2023,
 	month        = apr,
