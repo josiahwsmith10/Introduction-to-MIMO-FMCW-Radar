@@ -3,7 +3,7 @@
 
  See docs folder for main instructional document
 
-
+# Citation
 If you appreciate our work, please cite one of the papers using this work:
 - Deep Learning-Based Multiband Signal Fusion for 3-D SAR Super-Resolution ([arXiv](https://arxiv.org/abs/2305.02017), [DOI](https://doi.org/10.1109/TAES.2023.3270111))
 - Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging ([arXiv](https://arxiv.org/abs/2305.02092), [DOI](https://doi.org/10.1109/ICIP46576.2022.9897190))
